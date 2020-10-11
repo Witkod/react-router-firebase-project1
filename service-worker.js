@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/react-router-firebase-project1/precache-manifest.32881377e004975f74be70933ec43b43.js"
+  "/react-router-firebase-project1/create/precache-manifest.15f90bdec5decd5bc4b151cbc32413b0.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/react-router-firebase-project1/index.html", {
+workbox.routing.registerNavigationRoute("/react-router-firebase-project1/create/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
