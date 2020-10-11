@@ -1,13 +1,13 @@
 {
-  "main.css": "/react-router-firebase-project1/create/static/css/main.263aa060.chunk.css",
-  "main.js": "/react-router-firebase-project1/create/static/js/main.5c226a74.chunk.js",
-  "main.js.map": "/react-router-firebase-project1/create/static/js/main.5c226a74.chunk.js.map",
-  "runtime~main.js": "/react-router-firebase-project1/create/static/js/runtime~main.8ec4bb28.js",
-  "runtime~main.js.map": "/react-router-firebase-project1/create/static/js/runtime~main.8ec4bb28.js.map",
-  "static/js/2.2cfd8df4.chunk.js": "/react-router-firebase-project1/create/static/js/2.2cfd8df4.chunk.js",
-  "static/js/2.2cfd8df4.chunk.js.map": "/react-router-firebase-project1/create/static/js/2.2cfd8df4.chunk.js.map",
-  "index.html": "/react-router-firebase-project1/create/index.html",
-  "precache-manifest.15f90bdec5decd5bc4b151cbc32413b0.js": "/react-router-firebase-project1/create/precache-manifest.15f90bdec5decd5bc4b151cbc32413b0.js",
-  "service-worker.js": "/react-router-firebase-project1/create/service-worker.js",
-  "static/css/main.263aa060.chunk.css.map": "/react-router-firebase-project1/create/static/css/main.263aa060.chunk.css.map"
+  "main.css": "/react-router-firebase-project1/static/css/main.263aa060.chunk.css",
+  "main.js": "/react-router-firebase-project1/static/js/main.d3f414c1.chunk.js",
+  "main.js.map": "/react-router-firebase-project1/static/js/main.d3f414c1.chunk.js.map",
+  "runtime~main.js": "/react-router-firebase-project1/static/js/runtime~main.990afd4f.js",
+  "runtime~main.js.map": "/react-router-firebase-project1/static/js/runtime~main.990afd4f.js.map",
+  "static/js/2.c9a77617.chunk.js": "/react-router-firebase-project1/static/js/2.c9a77617.chunk.js",
+  "static/js/2.c9a77617.chunk.js.map": "/react-router-firebase-project1/static/js/2.c9a77617.chunk.js.map",
+  "index.html": "/react-router-firebase-project1/index.html",
+  "precache-manifest.32881377e004975f74be70933ec43b43.js": "/react-router-firebase-project1/precache-manifest.32881377e004975f74be70933ec43b43.js",
+  "service-worker.js": "/react-router-firebase-project1/service-worker.js",
+  "static/css/main.263aa060.chunk.css.map": "/react-router-firebase-project1/static/css/main.263aa060.chunk.css.map"
 }
