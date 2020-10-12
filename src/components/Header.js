@@ -2,12 +2,14 @@ import React from "react";
 import { NavLink, withRouter } from "react-router-dom";
 import { FirebaseContext } from "../firebase";
 
+import logoImage from './logo.png';
+
 function Header() {
   const { user, firebase } = React.useContext(FirebaseContext);
   return (
     <div className="header">
       <div className="flex">
-        <img src="/logo.png" alt="Hooks News Logo" className="logo" />
+        <img src={logoImage} alt="Hooks News Logo" className="logo" />
         <NavLink to="/" className="header-title">
           Hooks News
         </NavLink>

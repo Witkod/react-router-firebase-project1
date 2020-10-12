@@ -2,7 +2,7 @@
   "name": "hooks-news",
   "version": "0.1.0",
   "private": true,
-  "homepage": ".",
+  "homepage": "https://witkod.github.io/react-router-firebase-project1",
   "dependencies": {
     "axios": "^0.18.0",
     "date-fns": "^1.30.1",
@@ -12,7 +12,8 @@
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-router-dom": "^5.0.0",
-    "react-scripts": "2.1.8"
+    "react-scripts": "2.1.8",
+    "gh-pages": "3.1.0"
   },
   "scripts": {
     "start": "react-scripts start",

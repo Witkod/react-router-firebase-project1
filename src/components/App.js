@@ -11,11 +11,13 @@ import Header from "./Header";
 import useAuth from "./Auth/useAuth";
 import firebase, { FirebaseContext } from "../firebase";
 
+const ROUTER_BASE_PATH = process.env.NODE_ENV === 'production' ? 'react-router-firebase-project1' : undefined;
+
 function App() {
   const user = useAuth();
   console.log({ user });
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={ROUTER_BASE_PATH}>
       <FirebaseContext.Provider value={{ user, firebase }}>
         <div className="app-container">
           <Header />
